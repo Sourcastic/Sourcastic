@@ -10,7 +10,7 @@ I'm pretty new to contributing, I've mostly contributed to [Catppuccin](https://
 **Phone**: Nexus 5x
   
 
-<p align="left">
+<p align="Left">
   <img src="https://github.com/Sourcastic/Sourcastic/blob/main/lemon-man.jpg"/>
 </p>  
 
