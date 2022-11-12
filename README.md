@@ -1,8 +1,12 @@
-### Hi there 👋
+## Yello! 👋
 
+I'm **Sourcastic**, a clueless Lemon who's bumbling through life!  
+I'm pretty new to contributing, I've mostly contributed to [Catppuccin](https://github.com/catppuccin/catppuccin) so far.   
+
+### Socials:    
+**Discord**: Sourcastic#7785  
+**Reddit**: [u/Sourcastic_IF](https://www.reddit.com/user/Sourcastic_IF/)
 <!--
-**Sourcastic/Sourcastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
