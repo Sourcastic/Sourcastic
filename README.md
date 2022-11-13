@@ -8,11 +8,6 @@ I'm pretty new to contributing, I've mostly contributed to [Catppuccin](https://
 **Desktop Enviroment**: KDE Plasma   
 **Laptop**: Dell Latitude 7480  
 **Phone**: Nexus 5x
-  
-
-<p align="Left">
-  <img src="https://github.com/Sourcastic/Sourcastic/blob/main/lemon-man.jpg"/>
-</p>  
 
 ### --- Socials ---   
 >**Discord**: Sourcastic#7785  
