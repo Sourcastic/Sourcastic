@@ -8,6 +8,7 @@ I'm pretty new to contributing, I've mostly contributed to [Catppuccin](https://
 **Desktop Enviroment**: KDE Plasma   
 **Laptop**: Dell Latitude 7480  
 **Phone**: Nexus 5x
+**Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
 >**Discord**: Sourcastic#7785  
