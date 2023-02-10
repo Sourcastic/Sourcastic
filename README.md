@@ -5,10 +5,10 @@ Currently contributing to [Catppuccin](https://github.com/catppuccin/catppuccin)
   
 ### --- What I use ----
 >**Operating System**: Arch Linux   
-**Desktop Enviroment**: KDE Plasma   
-**Laptop**: Dell Latitude 7480  
-**Phone**: Samsung A12
-**Watch**: Fitbit Versa 3
+>**Desktop Enviroment**: KDE Plasma   
+>**Laptop**: Dell Latitude 7480  
+>**Phone**: Samsung A12
+>**Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
 >**Discord**: Sourcastic#7785  
