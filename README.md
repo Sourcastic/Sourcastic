@@ -7,7 +7,7 @@ Currently contributing to [Catppuccin](https://github.com/catppuccin/catppuccin)
 >**Operating System**: Arch Linux   
 **Desktop Enviroment**: KDE Plasma   
 **Laptop**: Dell Latitude 7480  
-**Phone**: Nexus 5x
+**Phone**: Samsung A12
 **Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
