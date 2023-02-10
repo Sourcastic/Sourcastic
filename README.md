@@ -7,12 +7,14 @@ Currently contributing to [Catppuccin](https://github.com/catppuccin/catppuccin)
 >**Operating System**: Arch Linux   
 >**Desktop Enviroment**: KDE Plasma   
 >**Laptop**: Dell Latitude 7480  
->**Phone**: Samsung A12
+>**Phone**: Samsung A12  
 >**Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
 >**Discord**: Sourcastic#7785  
 **Reddit**: [u/Sourcastic_IF](https://www.reddit.com/user/Sourcastic_IF/)
+
+
 <!--
 Here are some ideas to get you started:
 
