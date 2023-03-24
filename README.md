@@ -1,7 +1,7 @@
 ## Yello! 👋
 
 🍋  I'm **Sourcastic**, a clueless Lemon who's bumbling through life! 🍋   
-Currently contributing to [Catppuccin](https://github.com/catppuccin/catppuccin) so far. Outside of FOSS, I really like Sci-Fi/Fantasy books, Zelda and Minecraft.   
+Been contributing to [Catppuccin](https://github.com/catppuccin/catppuccin) so far. Outside of FOSS, I really like Sci-Fi/Fantasy books, Zelda and Minecraft.   
   
 ### --- What I use ----
 >**Operating System**: Arch Linux   
