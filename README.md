@@ -6,12 +6,12 @@ Been contributing to [Catppuccin](https://github.com/catppuccin/catppuccin) so f
 ### --- What I use ----
 >**Operating System**: Arch Linux   
 >**Desktop Enviroment**: KDE Plasma   
->**Laptop**: Dell Latitude 7480  
+>**Laptop**: HP G9 Notebook 
 >**Phone**: Samsung A12  
 >**Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
->**Discord**: Sourcastic#7785  
+>**Discord**: @Sourcastic
 **Reddit**: [u/Sourcastic_IF](https://www.reddit.com/user/Sourcastic_IF/)
 
 
