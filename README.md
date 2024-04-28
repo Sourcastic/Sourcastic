@@ -11,7 +11,8 @@ Been contributing to [Catppuccin](https://github.com/catppuccin/catppuccin) so f
 >**Watch**: Fitbit Versa 3
 
 ### --- Socials ---   
->**Discord**: @Sourcastic
+**Discord**: @Sourcastic
+
 **Reddit**: [u/Sourcastic_IF](https://www.reddit.com/user/Sourcastic_IF/)
 
 
